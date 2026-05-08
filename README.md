@@ -11,6 +11,7 @@ Kluczowe Funkcjonalności
   - Wykres Procesu: Porównanie wartości zadanej oraz wartości regulowanej.
   - Analiza Regulatora: Podgląd składowych sygnału sterującego (P, I, D) generowanych przez regulator.
   - Wykres Uchybu: Obserwacja różnicy między sygnałem zadanym a wyjściem obiektu.
+
 Technologie i Biblioteki
 - Język: C++ (standard obiektowy).
 - Framework: Qt (GUI, obsługa zdarzeń, Timery).
