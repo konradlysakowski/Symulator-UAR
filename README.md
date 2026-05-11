@@ -1,5 +1,7 @@
 Symulator Układu Automatycznej Regulacji (UAR) z Modelem ARX
+
 Opis Projektu
+
 Projekt został zrealizowany w ramach studiów na kierunku Informatyka Przemysłowa (profil praktyczny) na Politechnice Śląskiej. Jest to aplikacja okienkowa symulująca pracę zamkniętego układu regulacji automatycznej w czasie rzeczywistym. 
 Program pozwala na badanie dynamiki obiektów opisanych modelem ARX przy wykorzystaniu klasycznego algorytmu regulatora PID. Aplikacja kładzie duży nacisk na interakcję z użytkownikiem i wizualizację danych procesowych. 
 
@@ -14,5 +16,5 @@ Kluczowe Funkcjonalności
 
 Technologie i Biblioteki
 - Język: C++ (standard obiektowy).
-- Framework: Qt (GUI, obsługa zdarzeń, Timery).
+- Framework: Qt (GUI, obsługa zdarzeń).
 - Wizualizacja danych: Biblioteka QCustomPlot (zapewniająca płynne renderowanie wykresów w czasie rzeczywistym).
